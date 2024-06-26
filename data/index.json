@@ -1,0 +1,197 @@
+{
+    "jobTitle": [
+        {
+            "title":"Aspiring Web Developer"
+            }
+        ],
+
+        "aboutMe": [
+        {
+            "id":1,
+            "description":"I'm a lovely, cheerful, and kind person who is honest and punctual. I work well in groups as well as on my own because I like to create objectives for myself that I will accomplish. I have good listening and communication skills. I have a creative mind and am constantly ready for new challenges. I am well-organized and always plan ahead to ensure that I handle my time well.I am a dedicated, organized, and structured person. I have strong interpersonal skills, work well as part of a team, and am eager to learn and grow. I am loyal and dependable, and I frequently seek new tasks in a wide range of professional fields."
+        } 
+    ],
+
+
+    "education":[
+            {
+                "school": "Christel House South Africa",
+                "subjects": ["English", "Afrikaans", "Mathematics", "Business Studies", "Economics", "CAT", "Life Orientation"],
+                "year": 2022,
+                "grade" : "Bachelor's Pass and one Distinction"
+                
+            }
+        ],    
+        
+    
+    
+    "experience": [
+            {
+                "id": 1,
+                "title": "IT SUpport Learner",
+                "company": "Isquared Technologies",
+                "StartDate" :"2023-05-17",
+                "endDate": "2023-11-30",
+                "responsibilities" : [
+                    "Enhanced technical skills through hands-on experience in IT support.", "Implemented innovative solutions to optimize system performance.","Developed strong problem-solving skills to quickly identify and resolve issues.", "Streamlined IT processes to improve efficiency and productivity." 
+                ]
+            }
+        ],    
+        
+    
+    
+    "skills": [
+       {
+            "id": 1,
+            "skill":"HTML",
+            "description:": ""
+
+       } ,
+       {
+            "id": 2,
+            "skill":"JavaScript",
+            "description:": ""
+
+       }, 
+       {
+            "id": 3,
+            "skill":"Bootstrap",
+            "description:": ""
+
+       },
+       {
+            "id": 4,
+            "skill":"CSS",
+            "description:": ""
+
+       }, 
+       {
+                        
+            "id": 5,
+            "skill":"MS Office",
+            "description:": ""
+
+       } ,
+       {
+            "id": 6,
+            "skill":"Team building",
+            "description:": ""
+
+       } ,
+       {
+            "id": 7,
+            "skill":"Communication",
+            "description:": ""
+
+       } ,
+       {
+            "id": 8,
+            "skill":"Problem-solving",
+            "description:": ""
+
+       } ,
+       {
+            "id": 9,
+            "skill":"Technical Support",
+            "description:": ""
+
+       } ,
+       {
+            "id": 10,
+            "skill":"Integrity",
+            "description:": ""
+
+       } 
+        ],   
+    
+    "testimonials":[
+        {
+            "id": 1,
+            "name": "Mardoquéiro D. Lukembeladio",
+            "surname": "Student",
+            "company": "Life Choices Academy",
+            "testimonial": "Amy Johnson excels in communication and business management within computer coding. She effectively conveys complex technical concepts and demonstrates a strong work ethic by assisting her peers. Highly recommended for roles requiring technical expertise, communication skills, and leadership."
+        },
+        {
+            "id": 2,
+            "name": "Kyle Brink",
+            "Position": "Student",
+            "company": "Life Choices Academy",
+            "Testimonial": "Amy is an extremely dedicated worker who always strives to do the best she can. She remains willing to attain new knowledge and works very well in a team. Amy has the ability to create a comfortable atmosphere for those around her and always goes the extra mile when necessary. I highly recommended Amy and I am confident she will exceed your expectations."
+        },
+        {
+            "id": 3,
+            "Name": "Mapule Mbuzwana",
+            "Position": "Student",
+            "Company": "Life Choices Academy",
+            "Testimonial": "Amy is the real deal! her coding skills are off the charts, whether it's making websites look amazing or handling all the tech stuff behind the scenes. Plus, she's super easy to work with and always bring fresh ideas to the table. Can't recommend her enough!"
+        },
+        {
+            "id": 4,
+            "Name": "Daniel Umetor",
+            "Position": "Student",
+            "Company": "Life Choices Academy",
+            "Testimonial": "Amy is a very hardworking individual and is always committed to the task at hand. She is very creative with her designs and always amazes me by how she brings her ideas to life."
+        },
+        {
+            "id": 5,
+            "Name": "Joel Mukanya",
+            "Position": "Professor",
+            "Company": "Life Choices Academy",
+            "Testimonial": "Amy is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer."
+        }
+        ],
+
+    
+     "projectRecords": [
+            {
+                "id": 1,
+                "projectTitle": "Calculator",
+                "description": "This calculator design helped me undestand the basics of CSS and HTML.",
+                "gitHub-link": "",
+                "vercel_link": "https://calculator-nine-lake-91.vercel.app/"
+            },
+            {
+                "id": 2,
+                "projectTitle": "Keyboard",
+                "description": "This keyboard design helped me undestand the basics of CSS and HTML.",
+                "gitHub-link": "",
+                "vercel_link": "https://keyboard-swart.vercel.app/"
+            },
+            {
+                "id": 3,
+                "projectTitle": "Java-script-project",
+                "description": "I designed an e-commerce website of my business to test my skills in HTML, CSS, JAvaScript and Bootstrap.",
+                "gitHub-link": "",
+                "vercel_link": "https://java-script-project-psi.vercel.app/"
+            },
+            {
+                "id": 4,
+                "projectTitle": "Amyportfolio",
+                "description": "I designed a portfolio of myself, utilizing HTML, CSS and Bootstrap.",
+                "gitHub-link": "",
+                "Vercel_link": "https://amyportfolio-theta.vercel.app/"
+            },
+            {
+                "id": 5,
+                "projectTitle": "TempConverter",
+                "description": "The temperature converter converts temperatures from Celcuis to Fahrenheit and vise versa. This was achieved  through combining the use of CSS and JavaScript",
+                "gitHub-link": "",
+                "vercel_link": "https://tempconverter-sage.vercel.app/"
+            },
+            {
+                "id": 6,
+                "projectTitle": "Bmi-calculator",
+                "description": "This task was done to determine if you are healthy or not but comparing your weight to your height. The activity also tests my skills in HTMl, CSS and Javascript.",
+                "gitHub-link": "",
+                "vercel_link": "https://bmi-calculator-alpha-ten.vercel.app/"
+            },
+            {
+                "id": 7,
+                "projectTitle": "To-Do-App",
+                "description": "I created a to do list app using, HTML(for structure), JavaScript(for functionality) and CSS(for styling)",
+                "gitHub-link": "",
+                "vercel_link": "https://to-do-app-nine-dun.vercel.app/"
+            }
+        ]   
+}
