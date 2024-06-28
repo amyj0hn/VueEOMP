@@ -8,7 +8,7 @@
         "aboutMe": [
         {
             "id":1,
-            "description":"I'm a lovely, cheerful, and kind person who is honest and punctual. I work well in groups as well as on my own because I like to create objectives for myself that I will accomplish. I have good listening and communication skills. I have a creative mind and am constantly ready for new challenges. I am well-organized and always plan ahead to ensure that I handle my time well.I am a dedicated, organized, and structured person. I have strong interpersonal skills, work well as part of a team, and am eager to learn and grow. I am loyal and dependable, and I frequently seek new tasks in a wide range of professional fields."
+            "description":"As a dedicated and results-driven individual, I possess a unique blend of skills and qualities that enable me to excel in a variety of professional settings. With a strong foundation in honesty and integrity, I am committed to upholding the highest standards of ethics and morality in all my endeavors. I am a collaborative and adaptable team player with excellent communication and interpersonal skills, able to work effectively with diverse groups and individuals to achieve common goals. My creative mindset and problem-solving abilities enable me to approach challenges with a fresh perspective and develop innovative solutions. With my unique combination of skills, experience, and personal qualities, I am confident in my ability to make a positive impact in any organization and contribute to its success."
         } 
     ],
 
@@ -43,63 +43,38 @@
     "skills": [
        {
             "id": 1,
-            "skill":"HTML",
-            "description:": ""
+            "img_url":"https://amyj0hn.github.io/project-images/images/images.png",
+            "description:": "I have 5 years of experience working with HTML.",
+            "skill": "HTML"
 
        } ,
        {
             "id": 2,
-            "skill":"JavaScript",
-            "description:": ""
+            "img_url":"https://amyj0hn.github.io/project-images/images/css-logo.png",
+            "description:": "",
+             "skill": "CSS"
 
        }, 
        {
             "id": 3,
-            "skill":"Bootstrap",
-            "description:": ""
+            "img_url":"https://amyj0hn.github.io/project-images/images/javascript-logo.png",
+            "description:": "",
+             "skill": "JavaScript"
 
        },
        {
             "id": 4,
-            "skill":"CSS",
-            "description:": ""
+            "img_url":"https://amyj0hn.github.io/project-images/images/Bootstrap_logo.png",
+            "description:": "",
+             "skill": "Bootstrap"
 
        }, 
        {
                         
             "id": 5,
-            "skill":"MS Office",
-            "description:": ""
-
-       } ,
-       {
-            "id": 6,
-            "skill":"Team building",
-            "description:": ""
-
-       } ,
-       {
-            "id": 7,
-            "skill":"Communication",
-            "description:": ""
-
-       } ,
-       {
-            "id": 8,
-            "skill":"Problem-solving",
-            "description:": ""
-
-       } ,
-       {
-            "id": 9,
-            "skill":"Technical Support",
-            "description:": ""
-
-       } ,
-       {
-            "id": 10,
-            "skill":"Integrity",
-            "description:": ""
+            "img_url":"https://amyj0hn.github.io/project-images/images/office.jpg",
+            "description:": "",
+             "skill": "MS Office"
 
        } 
         ],   
@@ -107,38 +82,43 @@
     "testimonials":[
         {
             "id": 1,
-            "name": "Mardoquéiro D. Lukembeladio",
-            "surname": "Student",
+            "name": "Mardoquéiro D. ",
+            "surname": "Lukembeladio",
             "company": "Life Choices Academy",
-            "testimonial": "Amy Johnson excels in communication and business management within computer coding. She effectively conveys complex technical concepts and demonstrates a strong work ethic by assisting her peers. Highly recommended for roles requiring technical expertise, communication skills, and leadership."
+            "testimonial": "Amy Johnson excels in communication and business management within computer coding. She effectively conveys complex technical concepts and demonstrates a strong work ethic by assisting her peers. Highly recommended for roles requiring technical expertise, communication skills, and leadership.",
+            "image": "https://amyj0hn.github.io/project-images/images/thabo.jpg"
         },
         {
             "id": 2,
-            "name": "Kyle Brink",
-            "Position": "Student",
+            "name": "Kyle ",
+            "surname": "Brink",
             "company": "Life Choices Academy",
-            "Testimonial": "Amy is an extremely dedicated worker who always strives to do the best she can. She remains willing to attain new knowledge and works very well in a team. Amy has the ability to create a comfortable atmosphere for those around her and always goes the extra mile when necessary. I highly recommended Amy and I am confident she will exceed your expectations."
+            "testimonial": "Amy is an extremely dedicated worker who always strives to do the best she can. She remains willing to attain new knowledge and works very well in a team. Amy has the ability to create a comfortable atmosphere for those around her and always goes the extra mile when necessary. I highly recommended Amy and I am confident she will exceed your expectations.",
+            "image": "https://amyj0hn.github.io/project-images/images/kyle.jpg"
         },
         {
             "id": 3,
-            "Name": "Mapule Mbuzwana",
-            "Position": "Student",
-            "Company": "Life Choices Academy",
-            "Testimonial": "Amy is the real deal! her coding skills are off the charts, whether it's making websites look amazing or handling all the tech stuff behind the scenes. Plus, she's super easy to work with and always bring fresh ideas to the table. Can't recommend her enough!"
+            "name": "Mapule ",
+            "surname": "Mbuzwana",
+            "company": "Life Choices Academy",
+            "testimonial": "Amy is the real deal! her coding skills are off the charts, whether it's making websites look amazing or handling all the tech stuff behind the scenes. Plus, she's super easy to work with and always bring fresh ideas to the table. Can't recommend her enough!",
+            "image": "https://amyj0hn.github.io/project-images/images/mapule.png"
         },
         {
             "id": 4,
-            "Name": "Daniel Umetor",
-            "Position": "Student",
-            "Company": "Life Choices Academy",
-            "Testimonial": "Amy is a very hardworking individual and is always committed to the task at hand. She is very creative with her designs and always amazes me by how she brings her ideas to life."
+            "name": "Daniel ",
+            "surname": "Umetor",
+            "company": "Life Choices Academy",
+            "testimonial": "Amy is a very hardworking individual and is always committed to the task at hand. She is very creative with her designs and always amazes me by how she brings her ideas to life.",
+            "image": "https://amyj0hn.github.io/project-images/images/daniel.jpg"
         },
         {
             "id": 5,
-            "Name": "Joel Mukanya",
-            "Position": "Professor",
-            "Company": "Life Choices Academy",
-            "Testimonial": "Amy is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer."
+            "name": "Joel ",
+            "surname": "Mukanya",
+            "company": "Life Choices Academy",
+            "testimonial": "Amy is a highly creative, well-behaved, and dedicated individual who thrives on collaborating with her peers and excels at working on project assignments. She has acquired various skills and tools, including HTML5, CSS3, Bootstrap, VS Code, and wireframe. I am pleased to introduce her as an exceptional candidate and developer.",
+            "image": "https://amyj0hn.github.io/project-images/images/joel.jpg"
         }
         ],
 
@@ -147,7 +127,7 @@
             {
                 "id": 1,
                 "projectTitle": "Calculator",
-                "img_url": "https://amyj0hn.github.io/project-images/images/",
+                "img_url": "https://amyj0hn.github.io/project-images/images/calculator.png",
                 "description": "This calculator design helped me undestand the basics of CSS and HTML.",
                 "gitHub-link": "https://github.com/amyj0hn/calculator.git",
                 "vercel_link": "https://calculator-nine-lake-91.vercel.app/"
@@ -155,7 +135,7 @@
             {
                 "id": 2,
                 "projectTitle": "Keyboard",
-                "img_url": "https://amyj0hn.github.io/project-images/images/",
+                "img_url": "https://amyj0hn.github.io/project-images/images/keyboard.png",
                 "description": "This keyboard design helped me undestand the basics of CSS and HTML.",
                 "gitHub-link": "https://github.com/amyj0hn/Keyboard.git",
                 "vercel_link": "https://keyboard-swart.vercel.app/"
@@ -163,7 +143,7 @@
             {
                 "id": 3,
                 "projectTitle": "Java-script-project",
-                "img_url": "https://amyj0hn.github.io/project-images/images/",
+                "img_url": "https://amyj0hn.github.io/project-images/images/bag-online-store.png",
                 "description": "I designed an e-commerce website of my business to test my skills in HTML, CSS, JAvaScript and Bootstrap.",
                 "gitHub-link": "https://github.com/amyj0hn/JavaScript_Project.git",
                 "vercel_link": "https://java-script-project-psi.vercel.app/"
@@ -171,7 +151,7 @@
             {
                 "id": 4,
                 "projectTitle": "Amyportfolio",
-                "img_url": "https://amyj0hn.github.io/project-images/images/",
+                "img_url": "https://amyj0hn.github.io/project-images/images/Profile-Page.webp",
                 "description": "I designed a portfolio of myself, utilizing HTML, CSS and Bootstrap.",
                 "gitHub-link": "https://github.com/amyj0hn/amyportfolio.git",
                 "Vercel_link": "https://amyportfolio-theta.vercel.app/"
@@ -179,7 +159,7 @@
             {
                 "id": 5,
                 "projectTitle": "TempConverter",
-                "img_url": "https://amyj0hn.github.io/project-images/images/",
+                "img_url": "https://amyj0hn.github.io/project-images/images/temp-converter.png",
                 "description": "The temperature converter converts temperatures from Celcuis to Fahrenheit and vise versa. This was achieved  through combining the use of CSS and JavaScript",
                 "gitHub-link": "https://github.com/amyj0hn/tempconverter.git",
                 "vercel_link": "https://tempconverter-sage.vercel.app/"
@@ -187,7 +167,7 @@
             {
                 "id": 6,
                 "projectTitle": "Bmi-calculator",
-                "img_url": "https://amyj0hn.github.io/project-images/images/",
+                "img_url": "https://amyj0hn.github.io/project-images/images/bmi-calculator.png",
                 "description": "This task was done to determine if you are healthy or not but comparing your weight to your height. The activity also tests my skills in HTMl, CSS and Javascript.",
                 "gitHub-link": "https://github.com/amyj0hn/BMI-Calculator.git",
                 "vercel_link": "https://bmi-calculator-alpha-ten.vercel.app/"
@@ -195,7 +175,7 @@
             {
                 "id": 7,
                 "projectTitle": "To-Do-App",
-                "img_url": "https://amyj0hn.github.io/project-images/images/",
+                "img_url": "https://amyj0hn.github.io/project-images/images/todoapp.png",
                 "description": "I created a to do list app using, HTML(for structure), JavaScript(for functionality) and CSS(for styling)",
                 "gitHub-link": "https://github.com/amyj0hn/toDoApp.git",
                 "vercel_link": "https://to-do-app-nine-dun.vercel.app/"
