@@ -44,28 +44,28 @@
        {
             "id": 1,
             "img_url":"https://amyj0hn.github.io/project-images/images/html5.png",
-            "description:": "I have 4 years of experience working with HTML. I was first introduced to HTML structure in my third year of high school.",
+            "description": "I have 4 years of experience working with HTML. I was first introduced to HTML structure in my third year of high school.",
             "skill": "HTML"
 
        } ,
        {
             "id": 2,
             "img_url":"https://amyj0hn.github.io/project-images/images/css.png",
-            "description:": "I am actively upskilling myself and learning more and more about CSS daily. CSS is one of the many skills I learned at Life Choices ",
+            "description": "I am actively upskilling myself and learning more and more about CSS daily. CSS is one of the many skills I learned at Life Choices ",
              "skill": "CSS"
 
        }, 
        {
             "id": 3,
             "img_url":"https://amyj0hn.github.io/project-images/images/javaScript.png",
-            "description:": "I am learning more and more about JavaScript daily. JavaScript is one of the many skills I learned at Life Choices",
+            "description": "I am learning more and more about JavaScript daily. JavaScript is one of the many skills I learned at Life Choices",
              "skill": "JavaScript"
 
        },
        {
             "id": 4,
             "img_url":"https://amyj0hn.github.io/project-images/images/Bootstrap_logo.png",
-            "description:": "This tool made my code so much easier and neater. It surely is an amazing tool for developers. Thanks to the time I spent at Life Choices for the past few months, I learned alot about Bootstrap.",
+            "description": "This tool made my code so much easier and neater. It surely is an amazing tool for developers. Thanks to the time I spent at Life Choices for the past few months, I learned alot about Bootstrap.",
              "skill": "Bootstrap"
 
        }, 
@@ -74,14 +74,14 @@
                         
             "id": 5,
             "img_url":"https://amyj0hn.github.io/project-images/images/office365.jpg",
-            "description:": "I've worked with MS Office for almost 6 years. I started using it when I was in grade 10 and having this skill, surely improved my work ethic.",
+            "description": "I've worked with MS Office for almost 6 years. I started using it when I was in grade 10 and having this skill, surely improved my work ethic.",
              "skill": "MS Office"
 
        } ,
        {
             "id": 6,
             "img_url":"https://amyj0hn.github.io/project-images/images/figma.jpg",
-            "description:": "This tool made the creation of wireframe so easy and effortless. It surely is an amazing tool for developers. Thanks to the time I spent at Life Choices for the past few months, I learned alot about Figma.",
+            "description": "This tool made the creation of wireframe so easy and effortless. It surely is an amazing tool for developers. Thanks to the time I spent at Life Choices for the past few months, I learned alot about Figma.",
              "skill": "Figma"
         } 
         ],   
