@@ -221,7 +221,7 @@
                 "id": 8,
                 "projectTitle": "Java-script-project",
                 "img_url": "https://amyj0hn.github.io/project-images/images/bag-online-store.png",
-                "description": "I designed an e-commerce website of my business to test my skills in HTML, CSS, JAvaScript and Bootstrap.",
+                "description": "I designed an e-commerce website of my business to test my skills in HTML, CSS, JavaScript and Bootstrap.",
                 "gitHub-link": "https://github.com/amyj0hn/JavaScript_Project.git",
                 "vercel_link": "https://java-script-project-psi.vercel.app/"
             }
