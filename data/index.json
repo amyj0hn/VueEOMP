@@ -164,7 +164,7 @@
         {
             "id": 1,
             "projectTitle": "Ecommerce",
-            "img_url": "https://amyj0hn.github.io/project-images/images/calculator.png",
+            "img_url": "https://amyj0hn.github.io/project-images/images/nodejs.png",
             "description": "This was a group project I did for a Node.js End of Module Project. It allowed me to experience working with another individual and helped me pracice collaboration and communication.",
             "gitHub-link": "https://github.com/amyj0hn/nodeproject.git",
             "vercel_link": "https://nodeproject-1a345.web.app/"
