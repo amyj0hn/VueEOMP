@@ -73,14 +73,14 @@
        {
                         
             "id": 5,
-            "img_url":"https://amyj0hn.github.io/project-images/images/office365.jpg",
+            "img_url":"https://amyj0hn.github.io/project-images/images/office365.png",
             "description": "I've worked with MS Office for almost 6 years. I started using it when I was in grade 10 and having this skill, surely improved my work ethic.",
              "skill": "MS Office"
 
        } ,
        {
             "id": 6,
-            "img_url":"https://amyj0hn.github.io/project-images/images/figma.jpg",
+            "img_url":"https://amyj0hn.github.io/project-images/images/figma.png",
             "description": "This tool made the creation of wireframe so easy and effortless. It surely is an amazing tool for developers. Thanks to the time I spent at Life Choices for the past few months, I learned alot about Figma.",
              "skill": "Figma"
         } 
