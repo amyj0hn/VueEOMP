@@ -131,8 +131,48 @@
 
     
      "projects": [
+        {
+            "id": 1,
+            "projectTitle": "Ecommerce",
+            "img_url": "https://amyj0hn.github.io/project-images/images/calculator.png",
+            "description": "This was a group project I did for a Node.js End of Module Project. It allowed me to experience working with another individual and helped me pracice collaboration and communication.",
+            "gitHub-link": "https://github.com/amyj0hn/nodeproject.git",
+            "vercel_link": "https://nodeproject-1a345.web.app/"
+        },
+        {
+            "id": 2,
+            "projectTitle": "TempConverter",
+            "img_url": "https://amyj0hn.github.io/project-images/images/temp-converter.png",
+            "description": "The temperature converter converts temperatures from Celcuis to Fahrenheit and vise versa. This was achieved  through combining the use of CSS and JavaScript",
+            "gitHub-link": "https://github.com/amyj0hn/tempconverter.git",
+            "vercel_link": "https://tempconverter-sage.vercel.app/"
+        },
+        {
+            "id": 3,
+            "projectTitle": "Bmi-calculator",
+            "img_url": "https://amyj0hn.github.io/project-images/images/bmi-calculator.png",
+            "description": "This task was done to determine if you are healthy or not but comparing your weight to your height. The activity also tests my skills in HTMl, CSS and Javascript.",
+            "gitHub-link": "https://github.com/amyj0hn/BMI-Calculator.git",
+            "vercel_link": "https://bmi-calculator-alpha-ten.vercel.app/"
+        },
+        {
+            "id": 4,
+            "projectTitle": "To-Do-App",
+            "img_url": "https://amyj0hn.github.io/project-images/images/todoapp.png",
+            "description": "I created a to do list app using, HTML(for structure), JavaScript(for functionality) and CSS(for styling)",
+            "gitHub-link": "https://github.com/amyj0hn/toDoApp.git",
+            "vercel_link": "https://to-do-app-nine-dun.vercel.app/"
+        },
+        {
+            "id": 5,
+            "projectTitle": "Amyportfolio",
+            "img_url": "https://amyj0hn.github.io/project-images/images/Profile-Page.webp",
+            "description": "I designed a portfolio of myself, utilizing HTML, CSS and Bootstrap.",
+            "gitHub-link": "https://github.com/amyj0hn/amyportfolio.git",
+            "Vercel_link": "https://amyportfolio-theta.vercel.app/"
+        },
             {
-                "id": 1,
+                "id": 6,
                 "projectTitle": "Calculator",
                 "img_url": "https://amyj0hn.github.io/project-images/images/calculator.png",
                 "description": "This calculator design helped me undestand the basics of CSS and HTML.",
@@ -140,7 +180,7 @@
                 "vercel_link": "https://calculator-nine-lake-91.vercel.app/"
             },
             {
-                "id": 2,
+                "id": 7,
                 "projectTitle": "Keyboard",
                 "img_url": "https://amyj0hn.github.io/project-images/images/keyboard.png",
                 "description": "This keyboard design helped me undestand the basics of CSS and HTML.",
@@ -148,44 +188,12 @@
                 "vercel_link": "https://keyboard-swart.vercel.app/"
             },
             {
-                "id": 3,
+                "id": 8,
                 "projectTitle": "Java-script-project",
                 "img_url": "https://amyj0hn.github.io/project-images/images/bag-online-store.png",
                 "description": "I designed an e-commerce website of my business to test my skills in HTML, CSS, JAvaScript and Bootstrap.",
                 "gitHub-link": "https://github.com/amyj0hn/JavaScript_Project.git",
                 "vercel_link": "https://java-script-project-psi.vercel.app/"
-            },
-            {
-                "id": 4,
-                "projectTitle": "Amyportfolio",
-                "img_url": "https://amyj0hn.github.io/project-images/images/Profile-Page.webp",
-                "description": "I designed a portfolio of myself, utilizing HTML, CSS and Bootstrap.",
-                "gitHub-link": "https://github.com/amyj0hn/amyportfolio.git",
-                "Vercel_link": "https://amyportfolio-theta.vercel.app/"
-            },
-            {
-                "id": 5,
-                "projectTitle": "TempConverter",
-                "img_url": "https://amyj0hn.github.io/project-images/images/temp-converter.png",
-                "description": "The temperature converter converts temperatures from Celcuis to Fahrenheit and vise versa. This was achieved  through combining the use of CSS and JavaScript",
-                "gitHub-link": "https://github.com/amyj0hn/tempconverter.git",
-                "vercel_link": "https://tempconverter-sage.vercel.app/"
-            },
-            {
-                "id": 6,
-                "projectTitle": "Bmi-calculator",
-                "img_url": "https://amyj0hn.github.io/project-images/images/bmi-calculator.png",
-                "description": "This task was done to determine if you are healthy or not but comparing your weight to your height. The activity also tests my skills in HTMl, CSS and Javascript.",
-                "gitHub-link": "https://github.com/amyj0hn/BMI-Calculator.git",
-                "vercel_link": "https://bmi-calculator-alpha-ten.vercel.app/"
-            },
-            {
-                "id": 7,
-                "projectTitle": "To-Do-App",
-                "img_url": "https://amyj0hn.github.io/project-images/images/todoapp.png",
-                "description": "I created a to do list app using, HTML(for structure), JavaScript(for functionality) and CSS(for styling)",
-                "gitHub-link": "https://github.com/amyj0hn/toDoApp.git",
-                "vercel_link": "https://to-do-app-nine-dun.vercel.app/"
             }
         ]   
 }
