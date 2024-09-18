@@ -14,7 +14,16 @@
 
 
     "education":[
+        {
+            "id":1,
+            "school": "Life Choices Academy",
+            "subjects": ["HTML", "CSS", "JavaScript", "VueJS", "MySQL", "NodeJS"],
+            "year": 2024,
+            "grade" : ""
+            
+        },
             {
+                "id":2,
                 "school": "Christel House South Africa",
                 "subjects": ["English", "Afrikaans", "Mathematics", "Business Studies", "Economics", "CAT", "Life Orientation"],
                 "year": 2022,
@@ -22,12 +31,19 @@
                 
             }
         ],    
-        
-    
-    
+         
     "experience": [
+        {
+            "id": 1,
+            "title": "Intern ",
+            "company": "Life Choices Studio",
+            "startDate" :"Present",
+            "endDate": "",
+            "responsibilities" : [
+                "Front-end Programming: Work with HTML, CSS, and JavaScript to create and maintain user interfaces. Work together with designers to create responsive, interactive web pages from UI/UX wireframes and mockups.", "Development of the back end: Help with the development of server-side logic. assistance with installing and maintaining databases (MySQL). Develop your knowledge of working with RESTful or GraphQL APIs, including building, using, and testing them."]
+        },
             {
-                "id": 1,
+                "id": 2,
                 "title": "IT Support Learner",
                 "company": "Isquared Technologies",
                 "startDate" :"2023-05-17",
@@ -92,7 +108,7 @@
         }, 
         {
             "id": 8,
-            "img_url":"https://amyj0hn.github.io/project-images/images/nodejs.png",
+            "img_url":"https://amyj0hn.github.io/project-images/images/node.js.png",
             "description": "This tool made the creation of wireframe so easy and effortless. It surely is an amazing tool for developers. Thanks to the time I spent at Life Choices for the past few months, I learned alot about Figma.",
              "skill": "NodeJS"
         }, 
