@@ -83,7 +83,37 @@
             "img_url":"https://amyj0hn.github.io/project-images/images/figma.png",
             "description": "This tool made the creation of wireframe so easy and effortless. It surely is an amazing tool for developers. Thanks to the time I spent at Life Choices for the past few months, I learned alot about Figma.",
              "skill": "Figma"
-        } 
+        }, 
+        {
+            "id": 7,
+            "img_url":"https://amyj0hn.github.io/project-images/images/mysql.png",
+            "description": "This tool made the creation of wireframe so easy and effortless. It surely is an amazing tool for developers. Thanks to the time I spent at Life Choices for the past few months, I learned alot about Figma.",
+             "skill": "MySQL"
+        }, 
+        {
+            "id": 8,
+            "img_url":"https://amyj0hn.github.io/project-images/images/nodejs.png",
+            "description": "This tool made the creation of wireframe so easy and effortless. It surely is an amazing tool for developers. Thanks to the time I spent at Life Choices for the past few months, I learned alot about Figma.",
+             "skill": "NodeJS"
+        }, 
+        {
+            "id": 9,
+            "img_url":"https://amyj0hn.github.io/project-images/images/vuejs.png",
+            "description": "This tool made the creation of wireframe so easy and effortless. It surely is an amazing tool for developers. Thanks to the time I spent at Life Choices for the past few months, I learned alot about Figma.",
+             "skill": "VueJS"
+        }, 
+        {
+            "id": 10,
+            "img_url":"https://amyj0hn.github.io/project-images/images/firebase.png",
+            "description": "This tool made the creation of wireframe so easy and effortless. It surely is an amazing tool for developers. Thanks to the time I spent at Life Choices for the past few months, I learned alot about Figma.",
+             "skill": "Firebase"
+        }, 
+        {
+            "id": 11,
+            "img_url":"https://amyj0hn.github.io/project-images/images/github.png",
+            "description": "This tool made the creation of wireframe so easy and effortless. It surely is an amazing tool for developers. Thanks to the time I spent at Life Choices for the past few months, I learned alot about Figma.",
+             "skill": "GitHub"
+        }
         ],   
     
     "testimonials":[
