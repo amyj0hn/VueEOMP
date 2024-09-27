@@ -103,31 +103,31 @@
         {
             "id": 7,
             "img_url":"https://amyj0hn.github.io/project-images/images/mysql.png",
-            "description": "This tool made the creation of wireframe so easy and effortless. It surely is an amazing tool for developers. Thanks to the time I spent at Life Choices for the past few months, I learned alot about Figma.",
+            "description": "I used MySQL to structure and manage data for my applications, setting up relational databases to handle user data, profiles, and transactions. This helped ensure data consistency and allowed me to perform complex queries efficiently, giving my backend a solid foundation.",
              "skill": "MySQL"
         }, 
         {
             "id": 8,
             "img_url":"https://amyj0hn.github.io/project-images/images/node.js.png",
-            "description": "This tool made the creation of wireframe so easy and effortless. It surely is an amazing tool for developers. Thanks to the time I spent at Life Choices for the past few months, I learned alot about Figma.",
+            "description": "For the backend, I utilized Node.js to build RESTful APIs and handle server-side logic. With its non-blocking architecture, I was able to manage asynchronous tasks and create fast, scalable applications that communicate seamlessly with both the database and the front-end.",
              "skill": "NodeJS"
         }, 
         {
             "id": 9,
             "img_url":"https://amyj0hn.github.io/project-images/images/vuejs.png",
-            "description": "This tool made the creation of wireframe so easy and effortless. It surely is an amazing tool for developers. Thanks to the time I spent at Life Choices for the past few months, I learned alot about Figma.",
+            "description": "On the front-end, Vue.js enabled me to build responsive and interactive user interfaces. By breaking down the UI into modular, reusable components, I ensured the application remained organized and easy to maintain. Vue helped me deliver smooth, dynamic user experiences, whether for project listings, user profile updates, or other features.",
              "skill": "VueJS"
         }, 
         {
             "id": 10,
             "img_url":"https://amyj0hn.github.io/project-images/images/firebase.png",
-            "description": "This tool made the creation of wireframe so easy and effortless. It surely is an amazing tool for developers. Thanks to the time I spent at Life Choices for the past few months, I learned alot about Figma.",
+            "description": "I integrated Firebase for backend services like user authentication, real-time database management, and cloud storage. By using Firebase, I could offload server management and focus on developing core features like real-time updates in messaging or handling user logins, while still ensuring scalability.",
              "skill": "Firebase"
         }, 
         {
             "id": 11,
             "img_url":"https://amyj0hn.github.io/project-images/images/github.png",
-            "description": "This tool made the creation of wireframe so easy and effortless. It surely is an amazing tool for developers. Thanks to the time I spent at Life Choices for the past few months, I learned alot about Figma.",
+            "description": "Throughout my projects, GitHub played a key role in version control and collaboration. I used it to track changes, manage my codebase, and collaborate with others when necessary. GitHub also helped me streamline deployments and served as a platform to showcase my work, making the development process more organized and professional.",
              "skill": "GitHub"
         }
         ],   
