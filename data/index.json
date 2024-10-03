@@ -5,6 +5,13 @@
             }
         ],
 
+        "welcome": [
+            {
+                "text": ["Welcome to my portfolio!",  "I'm excited to share my projects with you.", "Click the burger for navbar.", "Impressed?, click on the Reach Me button. "]
+
+            }
+        ],
+
         "aboutMe": [
         {
             "id":1,
